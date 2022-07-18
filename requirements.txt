@@ -1,0 +1,3 @@
+clipboard
+selenium
+webdriver-manager
